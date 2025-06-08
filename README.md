@@ -4,8 +4,13 @@
 **nugyn/nugyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Heya! 
+
+Software Engineer based out of Melbourne, Australia. 
+
 - 🔭 I’m currently working on my v-bouldering grade
 - 🌱 I’m currently learning no-gi juijitsu
+  
  <!--
 
 - 👯 I’m looking to collaborate on ...
