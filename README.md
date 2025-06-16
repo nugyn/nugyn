@@ -8,10 +8,10 @@ Heya!
 
 Software Engineer based out of Melbourne, Australia. 
 
-- 🔭 I’m currently working on my v-bouldering grade
-- 🌱 I’m currently learning no-gi juijitsu
+- 🌱 I’m currently learning Rust
   
  <!--
+- 🔭 I’m currently working on my v-bouldering grade
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
