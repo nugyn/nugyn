@@ -1,0 +1,11 @@
+{
+  "name": "Medley",
+  "displayName": "Medley",
+  "description": "Health management app for symptom tracking, mood monitoring, and medication reminders with eScripts support",
+  "version": "1.0.0",
+  "permissions": [
+    "NOTIFICATIONS",
+    "VIBRATE",
+    "RECEIVE_BOOT_COMPLETED"
+  ]
+}
