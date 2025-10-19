@@ -8,7 +8,7 @@ Heya!
 
 Software Engineer based out of Melbourne, Australia. 
 
-- 🌱 I’m currently learning <...>
+- 🌱 I’m currently learning Rust
   
  <!--
 - 🔭 I’m currently working on my v-bouldering grade
