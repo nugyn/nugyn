@@ -6,9 +6,7 @@
 
 Heya! 
 
-Software Engineer based out of Melbourne, Australia. 
-
-- 🌱 I’m currently learning how to chill
+I am a currently playing around with live-coding and bitwig
   
  <!--
 - 🔭 I’m currently working on my v-bouldering grade
