@@ -6,9 +6,11 @@
 
 Heya! 
 
-I am a currently playing around with live-coding and bitwig
+I am a currently playing around with 
 
-Elixir
+- Live-coding
+- Bitwig
+- Functional Programming with Elixir
   
  <!--
 - 🔭 I’m currently working on my v-bouldering grade
