@@ -7,6 +7,8 @@
 Heya! 
 
 I am a currently playing around with live-coding and bitwig
+
+Elixir
   
  <!--
 - 🔭 I’m currently working on my v-bouldering grade
